@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+Choose between Yuito and Kasane, elite psionics each armed with a talent in psychokinesis and their own reason to fight. Complete both of their stories to unlock all the mysteries of a Brain Punk future caught between technology and psychic abilities.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,13 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **OS** | Windows 10 | macOS 11.0 or later |
+| **Processor** | Min: Intel Core i5-3470 | AMD FX-8350 / Rec: Intel Core i5-4690K | AMD Ryzen 5 2600X | Intel Core i5 / Apple M1 |
+| **Memory** | Min: 6 GB RAM / Rec: 8 GB RAM | 6 GB RAM |
+| **Graphics** | Min: Nvidia GeForce GTX 760, 2 GB | AMD Radeon HD 7970, 3 GB / Rec: Nvidia GeForce GTX 970, 4 GB | AMD Radeon R9 290X, 4 GB | Metal-capable GPU |
+| **DirectX** | Version 11 | Version 11 |
+| **Storage** | 50 GB available space | 50 GB available space |
+| **Additional Notes** | Min: Estimated performance: 1080p/60fps with graphics settin… / Rec: Estimated performance: 1080p/60fps with graphics settin… | Estimated performance: 1080p/60fps with graphics settin… |
 
 ---
 
